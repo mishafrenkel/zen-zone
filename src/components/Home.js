@@ -21,7 +21,7 @@ export default class Home extends Component {
             <div className='hero__logo'>
               <div className='icon icon--zentime-logo' />
 
-              <h1 className='zentime-name'>ZenTime</h1>
+              <h1 className='zentime-name'>ZenZone Zazen</h1>
             </div>
 
             <div className='hero__content'>
